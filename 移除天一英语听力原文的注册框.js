@@ -6,6 +6,7 @@
 // @author       You
 // @match        http://video.kaola100.com/*
 // @grant        none
+// 发布地址是：https://greasyfork.org/zh-CN/ 搜索“移除天一英语听力原文的注册框”
 // ==/UserScript==
 
 (function() {
